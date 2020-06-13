@@ -44,5 +44,3 @@ const clubs = [
     }
 ];
 export default clubs;
-export default DataSource;
-export default main;
